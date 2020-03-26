@@ -1,0 +1,27 @@
+.container{
+    margin-bottom: 50px;
+}
+.bg-color{
+    background-color: #ffcccc;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    
+    color:white;
+    
+}
+.cat1{
+    background-color: orange;
+   
+}
+
+.cat2{
+    background-color: orchid;
+    
+}
+.cat3{
+    background-color: blue;
+ 
+}
