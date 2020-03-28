@@ -3,6 +3,7 @@
 }
 .bg-color{
     background-color: #ffcccc;
+    border-radius: 10px;
 }
 .carousel-item{
     padding: 20px 40px;
@@ -14,17 +15,31 @@
 }
 .cat1{
     background-color: orange;
-   border-radius: 10px;
-}
+    padding: 10px 30px;
+    border-radius: 10px;
+    }
 
 .cat2{
     background-color: orchid;
+    padding: 10px 30px;
     border-radius: 10px;
 }
 .cat3{
     background-color: blue;
+    padding: 10px 30px;
     border-radius: 10px;
 }
-.red{
-    border-radius: 10px;
+.juta{
+    text-align: center;
+    font-weight: bold;
+}
+.moner-eccha{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#Subscribe{
+    height: 300px;
 }
